@@ -5,7 +5,7 @@ A streamlined starter kit for building AI applications with Ollama and Next.js, 
 ## Prerequisites
 
 1. Install [Ollama](https://ollama.ai) on your machine
-2. Pull a model using Ollama (e.g., `ollama pull llama2`)
+2. Download a model using Ollama (e.g., `ollama run llama2`)
 3. Ensure Ollama is running in the background
 
 ## Getting Started
